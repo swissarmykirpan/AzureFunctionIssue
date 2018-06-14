@@ -1,0 +1,10 @@
+﻿<ProjectConfiguration>
+  <Settings>
+    <AdditionalFilesToIncludeForProject>
+      <Value>bin\Debug\netstandard2.0\bin\FunctionApp1.dll</Value>
+      <Value>bin\Debug\netstandard2.0\bin\FunctionApp1.pdb</Value>
+    </AdditionalFilesToIncludeForProject>
+    <CopyReferencedAssembliesToWorkspace>True</CopyReferencedAssembliesToWorkspace>
+    <RunPostBuildEvents>True</RunPostBuildEvents>
+  </Settings>
+</ProjectConfiguration>
